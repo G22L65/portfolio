@@ -8,6 +8,7 @@ function mapProjectsData() {
             "title": "Pyrefine",
             "image": "images/projects/pyrefine.png",
             "type": "",
+            
             "labels": [
                 
                 {
@@ -28,7 +29,7 @@ function mapProjectsData() {
                 
                 {
                     "title": "Web",
-                    "link": ""
+                    "link": "https://pyrefine.vercel.app/"
                 },
                 {
                     "title": "GitHub",
