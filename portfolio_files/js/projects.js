@@ -5,18 +5,18 @@ document.addEventListener("DOMContentLoaded", function () {
 function mapProjectsData() {
     let projects = [
         {
-            "title": "project 1",
-            "image": "",
+            "title": "Pyrefine",
+            "image": "images/projects/pyrefine.png",
             "type": "",
             "labels": [
                 
                 {
                     "title": "Web",
-                    "link": ""
+                    "link": "https://pyrefine.vercel.app/"
                 },
                 {
                     "title": "GitHub",
-                    "link": ""
+                    "link": "https://github.com/G22L65/Pyrefine"
                 }
             ]
         },
